@@ -1,4 +1,10 @@
-# Klasifikasi Data Penjualan E-Commerce Fashion Menggunakan Machine Learning
+# Kelompok: Tim Analisis Penjualan E-Commerce Fashion
+
+## Anggota Tim:
+- **Kevin Rizki Irawan** (Ketua Tim, NIM: 22.11.4870)
+- **Marco Ganius** (Data Analyst, NIM: 22.11.4899)
+
+## Klasifikasi Data Penjualan E-Commerce Fashion Menggunakan Machine Learning
 
 Proyek ini memanfaatkan Machine Learning dengan Apache Spark ML untuk menganalisis dan mengklasifikasikan data penjualan dari e-commerce fashion. Tujuan utama adalah memahami pola diskon, harga produk, dan tren penjualan untuk memberikan wawasan yang dapat diimplementasikan dalam pengambilan keputusan bisnis.
 
@@ -102,4 +108,3 @@ Hyperparameter tuning dilakukan untuk model Random Forest dan Gradient Boosted T
  - Dataset: E-Commerce Fashion Dataset [Kaggle](https://www.kaggle.com/datasets/mukuldeshantri/ecommerce-fashion-dataset)
  - Notebook Colab: Google Colab [Google Colab](https://colab.research.google.com/drive/18wNjw-FoVbG33Iq3kQvzNLLUXJrCWepR?usp=sharing)
  - Launchinpad [Launchinpad](https://launchinpad.com/project/analisis-dan-klasifikasi-diskon-produk-pada-dataset-e-commerce-fashion-menggunakan-spark-ml-84be5f9)
- - 
