@@ -101,3 +101,5 @@ Hyperparameter tuning dilakukan untuk model Random Forest dan Gradient Boosted T
 
  - Dataset: E-Commerce Fashion Dataset [Kaggle](https://www.kaggle.com/datasets/mukuldeshantri/ecommerce-fashion-dataset)
  - Notebook Colab: Google Colab [Google Colab](https://colab.research.google.com/drive/18wNjw-FoVbG33Iq3kQvzNLLUXJrCWepR?usp=sharing)
+ - Launchinpad [Launchinpad](https://launchinpad.com/project/analisis-dan-klasifikasi-diskon-produk-pada-dataset-e-commerce-fashion-menggunakan-spark-ml-84be5f9)
+ - 
