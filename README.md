@@ -10,8 +10,7 @@ Proyek ini memanfaatkan Machine Learning dengan Apache Spark ML untuk menganalis
 5. [Model Machine Learning](#model-machine-learning)
 6. [Metrik Evaluasi](#metrik-evaluasi)
 7. [Hasil dan Wawasan](#hasil-dan-wawasan)
-8. [Cara Menggunakan](#cara-menggunakan)
-9. [Lampiran](#lampiran)
+8. [Lampiran](#lampiran)
 ---
 
 ## Pendahuluan
